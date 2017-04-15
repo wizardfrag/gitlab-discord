@@ -22,3 +22,5 @@
 *.iml
 out
 gen
+
+gitlab-discord.toml
