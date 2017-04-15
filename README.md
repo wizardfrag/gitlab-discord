@@ -1,3 +1,3 @@
 # Gitlab discord
 
-Discord bot that monitors gitlab commits and posts into a specified discord channel when there is activity.
+Discord bot that makes use of webhooks to show Gitlab activity inside of a Discord channel.
